@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Transformer and NLP**
 
-- 👯 I’m looking to collaborate on **Deep learning projects , Frontend software**
+- 👯 I’m looking to collaborate on **Deep learning projects , Backend software**
 
 - 💬 Ask me about **Computer Vision,Machine Learning**
 
