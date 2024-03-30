@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsharma080" alt="avinashsharma080" /></a> </p>
 
-- 🌱 I’m currently learning **Transformer and NLP**
-
 - 👯 I’m looking to collaborate on **Deep learning projects, Backend software**
 
-- 💬 Ask me about **Computer Vision,Machine Learning**
-
 - 📫 How to reach me **avinashsharma8199@gmail.com**
-
-- 💖My hobbies **Anime , Volleyball and Building some cool working projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
