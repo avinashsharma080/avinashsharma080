@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
 <h3 align="center">Computer Vision Engineer @ Carl Zeiss </h3>
 
-<h3 align="center"> Deep Leaning and A.I enthusiast</h3>
+<h3 align="center"> Backend Developer and A.I enthusiast</h3>
 
 - 👯 I’m looking to collaborate on **Deep learning projects, Backend software**
 
