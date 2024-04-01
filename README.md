@@ -3,8 +3,6 @@
 
 <h3 align="center"> Deep Leaning and A.I enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsharma080" alt="avinashsharma080" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Deep learning projects, Backend software**
 
 - 📫 How to reach me **avinashsharma8199@gmail.com**
