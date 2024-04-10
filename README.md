@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
-<h3 align="center">Computer Vision Engineer @ Carl Zeiss </h3>
 
 <h3 align="center"> Backend Developer and A.I enthusiast</h3>
 
